@@ -8,7 +8,8 @@
 - Feel free to explore my portfolio of projects that best reflect my interests and skills. 
 
 **Contact Me**: jinghanngoh@gmail.com
-
+**The stuff I know...**
+<p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
     </a>
