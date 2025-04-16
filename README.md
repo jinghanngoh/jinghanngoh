@@ -1,6 +1,7 @@
 # AboutMe
 
 **Hi there 👋, I'm Jinghann**
+<br>
 **你好 👋，我叫京翰** 
 
 - I'm a 3rd year Computer Engineering Student with a minor in Business at The Hong Kong University of Science and Technology
