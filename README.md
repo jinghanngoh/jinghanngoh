@@ -8,6 +8,7 @@
 - Feel free to explore my portfolio of projects that best reflect my interests and skills. 
 
 **Contact Me**: jinghanngoh@gmail.com
+<br>
 **The stuff I know...**
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
