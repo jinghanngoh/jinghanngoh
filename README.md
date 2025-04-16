@@ -7,9 +7,16 @@
 - Im currently looking for a internship this summer
 - Feel free to explore my portfolio of projects that best reflect my interests and skills. 
 
+- 我是香港科技大學的三年電腦工程學生副修商業
+- 我目前正在尋找暑期實習
+- 歡迎查看我最擅長和興趣的項目組合
+  
 **Contact Me**: jinghanngoh@gmail.com
 <br>
 **The stuff I know...**
+<br> 
+識嘅技能
+<br> 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
