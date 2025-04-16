@@ -14,9 +14,7 @@
   
 **Contact Me / 通知我**: jinghanngoh@gmail.com
 <br>
-**The stuff I know...**
-<br> 
-識嘅技能
+**The stuff I know/ 識嘅技能...**
 <br> 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
