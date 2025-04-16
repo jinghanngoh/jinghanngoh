@@ -1,7 +1,7 @@
 # AboutMe
 
 **Hi there 👋, I'm Jinghann**
-
+**你好 👋，我叫京翰** 
 
 - I'm a 3rd year Computer Engineering Student with a minor in Business at The Hong Kong University of Science and Technology
 - Im currently looking for a internship this summer
@@ -11,7 +11,7 @@
 - 我目前正在尋找暑期實習
 - 歡迎查看我最擅長和興趣的項目組合
   
-**Contact Me**: jinghanngoh@gmail.com
+**Contact Me / 通知我**: jinghanngoh@gmail.com
 <br>
 **The stuff I know...**
 <br> 
