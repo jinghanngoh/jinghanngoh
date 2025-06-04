@@ -5,11 +5,11 @@
 **你好 👋，我叫京翰** 
 
 - I'm a 3rd year Computer Engineering Student with a minor in Business at The Hong Kong University of Science and Technology
-- Im currently looking for a internship this summer
+- I'm currently looking for a placement this coming semester
 - Feel free to explore my portfolio of projects that best reflect my interests and skills. 
 
 - 我是香港科技大學的三年電腦工程學生副修商業
-- 我目前正在尋找暑期實習
+- 我正在尋找下學期的實習機會
 - 歡迎查看我最擅長和興趣的項目組合
   
 **Contact Me / 通知我**: jinghanngoh@gmail.com
